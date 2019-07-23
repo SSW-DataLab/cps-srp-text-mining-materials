@@ -1,7 +1,3 @@
----
-output: pdf_document
----
-
 # README
 
 This GitHub repository contains the R code and phrase dictionary files used to process data and fit the models reported in ["Detecting substance-related problems in narrative investigation summaries of child abuse and neglect using text mining and machine learning"](), currently under review. This README file provides an overview of the contents of each subdirectory, and instructions on how to utilize the processing functions.
