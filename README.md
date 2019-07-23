@@ -101,6 +101,7 @@ The R build/environment and package versions used for the results in our manuscr
  ps            1.2.1     2018-11-06 [1] CRAN (R 3.4.4)
  purrr       * 0.3.2     2019-03-15 [1] CRAN (R 3.4.4)
  R6            2.2.2     2017-06-17 [1] CRAN (R 3.4.3)
+ ranger      * 0.10.1    2018-06-04 [1] CRAN (R 3.4.4)
  Rcpp          1.0.0     2018-11-07 [1] CRAN (R 3.4.4)
  readr       * 1.3.1     2018-12-21 [1] CRAN (R 3.4.4)
  readxl      * 1.3.1     2019-03-13 [1] CRAN (R 3.4.4)
