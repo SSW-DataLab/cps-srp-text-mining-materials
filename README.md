@@ -40,7 +40,7 @@ Assuming the user has an excel file with the following three columns
 
 The first directory represents the file location where data that will be cleaned, processed, and used for modeling is stored. The second directory represents a file location where the resulting models, statistics, and output are stored. These paths will need to be updated by any future users with paths that correspond to their files are stored.
 
-Users should also update the supplemental data files included in this zip folder, specifically the sets of names used based on the data's geographic region, and add/remove specific custom phrases or words as needed. If the dictionary/pattern match approach will be used, reviewing the provided regex patterns may be needed to determine they match the user's needs. Importantly, column names for these files should not be altered; any changes to column names will likely generate errors when `fit-and-assess-ml-models.R` is run.
+Users should also update the supplemental data files included in the `data/` folder, specifically the sets of names used based on the data's geographic region, and add/remove specific custom phrases or words as needed. If the dictionary/pattern match approach will be used, reviewing the provided regex patterns may be needed to determine they match the user's needs. Importantly, column names for these files should not be altered; any changes to column names will likely generate errors when `fit-and-assess-ml-models.R` is run.
 
 The R build/environment and package versions used for the results in our manuscript are available below.
 
